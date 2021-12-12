@@ -5,4 +5,6 @@
 <p><span style=“font-family: ‘Lucida Sans Unicode’, ‘Lucida Grande’, sans-serif;”><span style=“font-size: 14px;”>
 <p>This script is useful in the event of a recall or to determine costing for a specific batch.</p>
 <p>Because the metrc api does not provide source packages, this script uses a .csv file instead.</p>
-<p>Simple export a .csv report from metrc, add it to this script’s directory, and insert the name of the file into the script.</p><br>
+<p>Simple export a .csv report from metrc, add it to this script’s directory, and insert the name of the file into the script.</p>
+<p>Change csv headers to "Tag", "Batch Number", and "Source Package" respectively.</p>
+<br>
